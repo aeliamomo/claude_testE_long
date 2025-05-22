@@ -79,7 +79,7 @@ numpy and scikit-learn
 
 ### Step 1: pip install numpy scikit-learn
 ### Step 2: check if scikit-learn is installed
-### Step 3: Go to https://github.com/aeliamomo/claude_testE_long and install the rest.
+### Step 3: Go to https://github.com/aeliamomo/claude_testF_long/tree/main and install the rest.
 
 
 #  Project Structure
